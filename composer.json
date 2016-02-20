@@ -1,0 +1,14 @@
+{
+    "name": "jonners99/inspector-src",
+    "description": "Traffic inspector",
+    "require": {
+        "guzzlehttp/guzzle": "^6.1",
+        "klein/klein": "v2.1.0"
+    },
+    "authors": [
+        {
+            "name": "Jonathan Little",
+            "email": "jonathan@flipsidegroup.com"
+        }
+    ]
+}
